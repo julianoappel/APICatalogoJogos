@@ -1,0 +1,1 @@
+API em .Net 5 - CRUD para um sistema de catálogo de jogos.
